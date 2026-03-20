@@ -1,0 +1,12 @@
+{
+  name = "Pseudoamethyst Shard",
+  storage = {
+    314788742,
+    2112702151,
+    -1342168168,
+    -931529838,
+  },
+  [ "iota$serde" ] = "null",
+  index = 1,
+  count = 45420240,
+}

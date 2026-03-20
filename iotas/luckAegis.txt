@@ -1,0 +1,57 @@
+{
+  {
+    startDir = "NORTH_EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "qaq",
+  },
+  {
+    startDir = "SOUTH_EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "aqaaqawqaa",
+  },
+  {
+    startDir = "SOUTH_EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "aqaaq",
+  },
+  {
+    startDir = "SOUTH_EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "waqaw",
+  },
+  {
+    startDir = "SOUTH_EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "aqaaw",
+  },
+  {
+    startDir = "WEST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "qqq",
+  },
+  {
+    [ "iota$serde" ] = "null",
+    potion_key = "minecraft:luck",
+  },
+  {
+    startDir = "EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "eee",
+  },
+  {
+    startDir = "NORTH_WEST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "qwaeawq",
+  },
+  {
+    startDir = "SOUTH_WEST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "aqaaqwww",
+  },
+  {
+    startDir = "NORTH_EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "deeweeweqedwdadwqawwq",
+  },
+  [ "iota$serde" ] = "hextweaks:list",
+}

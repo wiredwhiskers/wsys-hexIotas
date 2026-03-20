@@ -1,0 +1,13 @@
+{
+  {
+    startDir = "SOUTH_EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "aqae",
+  },
+  {
+    startDir = "NORTH_EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "de",
+  },
+  [ "iota$serde" ] = "hextweaks:list",
+}

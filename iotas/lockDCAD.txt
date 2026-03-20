@@ -1,0 +1,38 @@
+{
+  {
+    startDir = "WEST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "qqq",
+  },
+  {
+    entity_name = "wiredwhiskers",
+    iota_uuid = {
+      -184148568,
+      -1348648217,
+      -1635629645,
+      791565518,
+    },
+    [ "iota$serde" ] = "null",
+  },
+  {
+    startDir = "EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "eee",
+  },
+  {
+    startDir = "NORTH_WEST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "qwaeawq",
+  },
+  {
+    startDir = "EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "aqawde",
+  },
+  {
+    startDir = "EAST",
+    [ "iota$serde" ] = "hextweaks:pattern",
+    angles = "eweweweweweeewqaqwe",
+  },
+  [ "iota$serde" ] = "hextweaks:list",
+}
